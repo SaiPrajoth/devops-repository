@@ -4,3 +4,5 @@ In Day 17, we discussed about
 3. Linux OS
 4. Shell Scripting
 5. Shell commands
+
+please use this folder studying along the blog 
