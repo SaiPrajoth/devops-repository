@@ -36,3 +36,23 @@ Welcome to the DevOps Learning Series! This comprehensive series of workshops is
 - Git basics and fundamental commands
 - Branching and merging strategies
 
+
+### How to Use
+1. Checkout the branch for Version Control: `git checkout version-control`
+2. Follow the instructions in the workshop materials for Version Control with Git.
+
+_(Repeat the pattern for each workshop in the series)_
+
+## Additional Resources
+- [DevOps Handbook](https://www.devopshandbook.com/)
+- [Docker Documentation](https://docs.docker.com/)
+- [Kubernetes Documentation](https://kubernetes.io/docs/)
+- [Jenkins Documentation](https://www.jenkins.io/doc/)
+
+## Feedback
+If you have any feedback or questions, feel free to open an issue or reach out to the organizers of the DevOps Learning Series.
+
+Happy learning and building!
+
+**Note:** Customize the URLs, branch names, and other details according to your preferences and setup. Ensure that each workshop or session has its dedicated branch or section in the repository.
+
