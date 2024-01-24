@@ -54,5 +54,3 @@ If you have any feedback or questions, feel free to open an issue or reach out t
 
 Happy learning and building!
 
-**Note:** Customize the URLs, branch names, and other details according to your preferences and setup. Ensure that each workshop or session has its dedicated branch or section in the repository.
-
