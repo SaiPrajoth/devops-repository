@@ -1,4 +1,4 @@
-Certainly! Below is a template for a README file for a DevOps Learning Series. This can serve as a starting point for organizing your DevOps workshop or series of sessions.
+
 
 ### DevOps Learning Series
 
